@@ -1,0 +1,16 @@
+git stash
+git stash save "message"
+git stash apply
+git stash list
+to delete the changes permanently
+to save the stash along with the message
+to get back the data again
+to get the list of stashes
+git stash clear
+to clear all stashes
+git stash pop
+git stash drop
+git stash drop stash@{2}
+to delete the first stash
+used to delete the latest stash
+used to delete a praticular stash

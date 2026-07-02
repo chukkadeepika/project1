@@ -1,0 +1,17 @@
+git branch
+git branch branch-name
+git checkout branch-name
+git checkout -b branch-name
+used to see the list of branches
+to create a branch
+to switch one branch to another
+used to create and switch a branch at a 
+time
+git branch -m old-branch new-branch
+git branch -d branch-name
+git branch branch-name deleted-branch-id
+git branch -D branch-name
+used to rename a branch
+to delete a branch
+Used to get deleted branch id
+to delete a branch forcefully

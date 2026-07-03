@@ -1,0 +1,10 @@
+git tag
+git tag tagname
+git tag -a -m "message" tagname
+git tag -d tagname
+git show tagname
+To see the list of tags
+To create normal tag
+To create annotated tag
+To delete a tag
+To see the details of the tag

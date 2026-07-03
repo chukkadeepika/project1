@@ -1,0 +1,15 @@
+git reset --hard HEAD~1
+used to delete the latest commit along 
+with the changes
+git reset --hard HEAD~3
+used to delete the latest 3 commits along 
+with the changes
+git reset --soft HEAD~1
+git reset --soft HEAD~3
+used to delete only commits but not 
+actions/changes
+used to delete only latest commits but not 
+actions/changes
+git revert commit_id
+used to delete a particular commit action 
+and add a new commit for the change

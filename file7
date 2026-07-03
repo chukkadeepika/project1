@@ -1,0 +1,9 @@
+git commit --amend -m "message"
+git commit --amend --author "username 
+<mail>"
+used to change the commit message for a 
+latest commit
+used to change the author of latest commit
+git commit --amend --no-edit
+used to commit the changes with previous 
+commit

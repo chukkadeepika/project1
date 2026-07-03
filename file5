@@ -1,0 +1,15 @@
+git log
+git log --oneline
+git log --pretty=oneline
+used to see the history of the git
+used to see only commit ID's and messages
+Used to get only commit ID's and messages
+git log -1
+git log -3
+git log --follow --all filename
+git log --graph --oneline --all
+used to see the latest commit
+used to see latest 3 commits
+used to see the no of commits for a single 
+file
+see all the history in grap

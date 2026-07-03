@@ -1,0 +1,32 @@
+git remote add origin repo-url
+git remove -v
+git push -u origin branch-name
+git push -u origin branch-1 branch-2
+git push -u origin --all
+git clone repo-url
+git pull origin branch
+git fetch branch-name
+link local-repo to central-repo
+used to get the linked repo in github
+push the code from local to central
+used to push the code to multiple 
+branches
+used to push the code to all branches at a 
+time
+used to get the code from central to local
+used to get the chanes from central to 
+local
+used to fetch the data from central to local
+git fetch --all
+git merge origin/branch
+git push -u origin --delete branch-name
+git remote rm origin
+git remote rename old -link new-link
+used to fetch the changes from all 
+branches in github
+used to merge the changes from cental to 
+local
+used to delete the github branch from 
+local
+used to unlink the github-repo
+used to change the rep
